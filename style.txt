@@ -7,7 +7,7 @@ body {
      background-color: black;
 }
 
-.produto {
+.produtos {
      background-color: white;
      padding-left: 25px;
      width: 250px;
